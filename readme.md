@@ -3,7 +3,7 @@
 1
 composer install
 
-2 use script.sql and create database
+2 use biblioteka.sql and create database
 in .env configure DATABASE_URL="mysql://root:@127.0.0.1:3306/biblioteka"
 
 3
