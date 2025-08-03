@@ -1,3 +1,19 @@
+# 📚 Library App – Recruitment Task
+
+A simple full stack project fetching book data from a MySQL database.  
+Frontend built with React.js, backend with Symfony PHP.
+
+---
+
+## 🛠️ Technologies
+
+- **Frontend:** React, JavaScript, Tailwind CSS  
+- **Backend:** Symfony (PHP), Doctrine ORM  
+- **Database:** MySQL
+
+---
+
+## 🔧 How to run
 ## for backend
 
 1
